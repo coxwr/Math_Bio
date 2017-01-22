@@ -7,4 +7,4 @@ new_x = [1,2,3,4,5,6,7,8,9,10,11,12]
 slope,intercept = np.polyfit(new_x,y,1)
 print(slope)
 print(intercept)
-#print(r_value)
+##print(r_value)
